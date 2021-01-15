@@ -1,6 +1,6 @@
 
 import './App.css';
-import MovieSearch from './MovieSearch/MovieSearch';
+import MovieSearch from './components/MovieSearch';
 
 function App() {
 

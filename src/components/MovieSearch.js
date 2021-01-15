@@ -12,7 +12,7 @@ const movieSearch = (props) => {
                     name="search"
                     type="text"
                     className="form-control"
-                    value="props.value"
+
                     placeholder="Search For a Movie"
                     id="search"
 
