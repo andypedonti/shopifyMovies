@@ -6,3 +6,5 @@ const searchResults = () => {
         <div>hello</div>
     )
 }
+
+export default searchResults;
